@@ -46,9 +46,9 @@ This Python script provides functionality for categorizing images based on their
 </p>
 
 ---
-   Category 8
+   Outliers
 <p align="left">
-<img src="https://github.com/knrdsmt/Deep-learning-images-categorization/assets/97449172/37a572ef-bbd1-49be-9108-2c8d57e68e32" height="70" alt="Category 8"/>
+<img src="https://github.com/knrdsmt/Deep-learning-images-categorization/assets/97449172/37a572ef-bbd1-49be-9108-2c8d57e68e32" height="70" alt="Outliers"/>
 </p>
 
 ## Functionality
