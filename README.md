@@ -12,7 +12,7 @@ This Python script provides functionality for categorizing images based on their
 ---
    Category 2
 <p align="left">
-<img src="https://github.com/knrdsmt/Deep-learning-images-categorization/assets/97449172/16528dba-91bb-455b-bc13-3deb49952b25" weight="100%" alt="Category 2"/>
+<img src="https://github.com/knrdsmt/Deep-learning-images-categorization/assets/97449172/16528dba-91bb-455b-bc13-3deb49952b25" height="67" alt="Category 2"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@ This Python script provides functionality for categorizing images based on their
 ---
    Category 4
 <p align="left">
-<img src="https://github.com/knrdsmt/Deep-learning-images-categorization/assets/97449172/82370b9f-ce0c-4bc3-9456-3b0f727e35ea" weight="100%" alt="Category 4"/>
+<img src="https://github.com/knrdsmt/Deep-learning-images-categorization/assets/97449172/82370b9f-ce0c-4bc3-9456-3b0f727e35ea" height="75" alt="Category 4"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@ This Python script provides functionality for categorizing images based on their
 ---
    Category 8
 <p align="left">
-<img src="https://github.com/knrdsmt/Deep-learning-images-categorization/assets/97449172/37a572ef-bbd1-49be-9108-2c8d57e68e32" weight="100%" alt="Category 8"/>
+<img src="https://github.com/knrdsmt/Deep-learning-images-categorization/assets/97449172/37a572ef-bbd1-49be-9108-2c8d57e68e32" height="70" alt="Category 8"/>
 </p>
 
 ## Functionality
