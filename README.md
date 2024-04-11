@@ -2,7 +2,7 @@
 
 This Python script provides functionality for categorizing images based on their visual features using VGG16 and detecting outliers using ResNet50, both of which are deep learning models pre-trained on the ImageNet dataset.
 
-## Categorized Images
+## Categorized Images 
 
    Category 1
 <p align="left">
